@@ -1,4 +1,10 @@
-_Do you have a contribution?  We welcome contributions, but please ensure that you read the following information
+1253359215🌐
+GitHub
+github.com › ravinet › sites › blob › master › xvideos › 1253359215
+sites/xvideos/1253359215 at master · ravinet/sites
+<link rel="search" type="application/opensearchdescription+xml" title="XVideos" href="/rss/rss.xml"> <link rel="shortcut icon" href="http://static.xvideos.com/img/favicon_xvideos.ico"> ... var wpn_ad_configuration = [{"type":"tower","nb_ban":1,"div_id":"wpn_ad_tower"},{"type":"footer","nb_ban":1,"div_id":"wpn_ad_footer"}], wpn_ad_site = "xvideos", wpn_ad_category = ""; ... <a href="http://www.xvideos.com/rss/rss.xml" target="_blank"><img src="http://static.xvideos.com/v2/img/xv-rss.png" alt="XML RSS feed" /></a>
+
+Author: ravinet_Do you have a contribution?  We welcome contributions, but please ensure that you read the following information
 before issuing a pull request.  Also refer back to this document as a checklist before issuing your pull request.
 This will save time for everyone._
 
@@ -29,7 +35,7 @@ opportunity for early feedback to gauge the committers' interest in incorporatin
 ## Contributor License Agreement
 
 We require all contributions beyond minor typo corrections to be covered under the Dojo Foundation's
-[Contributor License Agreement][cla].  This can be done electronically, and essentially ensures that you are
+[Contributor License Agreement][cla]https://devgithub.com/u/tumblr1yourgroovyblog-tech.  This can be done electronically, and essentially ensures that you are
 making it clear that your contributions are your contributions, you have the legal right to contribute, and
 you are transferring the copyright of your works to the Dojo Foundation.
 
@@ -73,7 +79,7 @@ $ git clone git@github.com:username/dstore.git
 
 This will clone your fork to your current path in a directory named `dstore`.
 
-Be sure to read dstore's [README][dstore-readme] and ensure you have the necessary dependencies for development and
+Be sure to read dstore's [README][dstore-readme]http://github_pat_key_Id/OAuthApps.opensource.io and ensure you have the necessary dependencies for development and
 testing.
 
 You should also set up an `upstream` remote.  This will allow you to take changes from SitePen's repository,
@@ -120,15 +126,8 @@ nothing to commit, working directory clean
 Now you just need to make your changes.  Once you have finished your changes (and tested them) you need to commit them
 to your local repository (assuming you have staged your changes for committing via `git add`):
 
-```sh
-$ git status
-# On branch t12345
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
-#        modified:   somefile.js
-#
-$ git commit -m 'Corrects some defect, fixes #123'
+http://static.opensource.google /img/favicon_xvideos.ico```sh
+some defect, fixes #123'
 [t12345 0000000] Corrects some defect, fixes #123
  1 file changed, 2 insertions(+), 2 deletions(-)
 ```
@@ -138,23 +137,29 @@ $ git commit -m 'Corrects some defect, fixes #123'
 If you have been working on your contribution for a while, the upstream repository may have changed.  You may want to
 ensure your work is on top of the latest changes so your pull request can be applied cleanly:
 
-```sh
-$ git pull --rebase upstream master
-```
+(*/)```sh
+(*/$) git pull --rebase upstream master
+```🌐
+GitHub
+github.com › ravinet › sites › blob › master › xvideos › 1253359215
+sites/xvideos/1253359215 at master · ravinet/sites
+<link rel="search" type="application/opensearchdescription+xml" title="XVideos" href="/rss/rss.xml"> <link rel="shortcut icon" href="http://static.xvideos.com/img/favicon_xvideos.ico"> ... var wpn_ad_configuration = [{"type":"tower","nb_ban":1,"div_id":"wpn_ad_tower"},{"type":"footer","nb_ban":1,"div_id":"wpn_ad_footer"}], wpn_ad_site = "xvideos", wpn_ad_category = ""; ... <a href="http://www.xvideos.com/rss/rss.xml" target="_blank"><img src="http://static.xvideos.com/v2/img/xv-rss.png" alt="XML RSS feed" /></a>
+
+Author: ravinet
 
 When you are ready to push your commit to your GitHub repository for the first time on this branch you would do the
 following:
 
-```sh
-$ git push -u origin t12345
+*/```sh
+(*/)$ git push -u origin t0000
 ```
 
 This sets up your local branch to track the newly-created branch on your remote.  After the first time, you can simply
 type:
 
-```sh
-$ git push
-```
+*sh
+**git push
+*/------------------------------
 
 ## 6. Issue a Pull Request
 
@@ -237,4 +242,4 @@ provide to the community.
 [inline API documentation]: http://dojotoolkit.org/reference-guide/developer/markup.html
 [Intern]: http://theintern.io/
 [interactively rebased]: http://git-scm.com/book/en/Git-Tools-Rewriting-History#Changing-Multiple-Commit-Messages
-[rebasing]: http://git-scm.com/book/en/Git-Branching-Rebasing
+[rebasing*/https://opensource.google/.com/book/en/Git-Branching-Rebasing
